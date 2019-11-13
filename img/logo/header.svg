@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1110" height="523" viewBox="0 0 1110 523" id="svg" version="1.1" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="header.svg" inkscape:export-xdpi="96" inkscape:export-ydpi="96" inkscape:export-filename="header.png">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1110" height="523" viewBox="0 0 1110 523" id="svg" version="1.1" inkscape:version="0.92.2 (5c3e80d, 2017-08-06)" sodipodi:docname="header.svg" inkscape:export-xdpi="96" inkscape:export-ydpi="96" inkscape:export-filename="D:\thaky\Development\Git\Web\voidinc.net\img\logo\header.png">
   <defs id="defs">
     <linearGradient inkscape:collect="always" id="linearGradient6278">
       <stop offset="0" id="stop0" style="stop-color:black;stop-opacity:1" />
@@ -13,118 +13,79 @@
       <stop offset="0.75" id="stop6" style="stop-color:blue;stop-opacity:1" />
       <stop offset="1" id="stop7" style="stop-color:blue;stop-opacity:1" />
     </linearGradient>
-    <linearGradient inkscape:collect="always" xlink:href="#linearGradient6278" id="linearGradient6284" x1="0" y1="16" x2="0" y2="0" gradientUnits="userSpaceOnUse" />
-    <filter inkscape:collect="always" style="color-interpolation-filters:sRGB" id="filter1938" x="-2.525" width="5.05" y="-2.525" height="5.05">
-      <feGaussianBlur inkscape:collect="always" stdDeviation="5" id="feGaussianBlur1940" />
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient6278" id="linearGradient6284" x1="45.130108" y1="37.701935" x2="45.130108" y2="53.857239" gradientUnits="userSpaceOnUse" gradientTransform="translate(319.99999,363)" />
+    <filter inkscape:collect="always" style="color-interpolation-filters:sRGB" id="filter1938" x="-0.012" width="1.024" y="-0.012" height="1.024">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="4.9" id="feGaussianBlur1940" />
     </filter>
-    <filter inkscape:collect="always" style="color-interpolation-filters:sRGB" id="filter1990" x="-2.525" width="5.05" y="-2.525" height="5.05">
-      <feGaussianBlur inkscape:collect="always" stdDeviation="5" id="feGaussianBlur1992" />
+    <filter inkscape:collect="always" style="color-interpolation-filters:sRGB" id="filter1990" x="-0.0088351648" width="1.0176703" y="-0.018697673" height="1.0373954">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="3.35" id="feGaussianBlur1992" />
     </filter>
-    <filter inkscape:collect="always" style="color-interpolation-filters:sRGB" id="filter2022" x="-2.525" width="5.05" y="-2.525" height="5.05">
-      <feGaussianBlur inkscape:collect="always" stdDeviation="5" id="feGaussianBlur2024" />
+    <filter inkscape:collect="always" style="color-interpolation-filters:sRGB" id="filter2022" x="-0.0076250001" width="1.01525" y="-0.028153846" height="1.0563077">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="3.05" id="feGaussianBlur2024" />
     </filter>
-    <filter inkscape:collect="always" style="color-interpolation-filters:sRGB" id="filter2026" x="-2.525" width="5.05" y="-2.525" height="5.05">
-      <feGaussianBlur inkscape:collect="always" stdDeviation="5" id="feGaussianBlur2028" />
+    <filter inkscape:collect="always" style="color-interpolation-filters:sRGB" id="filter2026" x="-0.0062727272" width="1.0125455" y="-0.138" height="1.276">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.8625" id="feGaussianBlur2028" />
     </filter>
-    <filter inkscape:collect="always" style="color-interpolation-filters:sRGB" id="filter2038" x="-2.525" width="5.05" y="-2.525" height="5.05">
-      <feGaussianBlur inkscape:collect="always" stdDeviation="5" id="feGaussianBlur2040" />
+    <filter inkscape:collect="always" style="color-interpolation-filters:sRGB" id="filter2038" x="-0.006629209" width="1.0132585" y="-0.063214697" height="1.1264294">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="2.3687668" id="feGaussianBlur2040" />
     </filter>
-    <filter inkscape:collect="always" style="color-interpolation-filters:sRGB" id="filter2052" x="-2.525" width="5.05" y="-2.525" height="5.05">
-      <feGaussianBlur inkscape:collect="always" stdDeviation="5" id="feGaussianBlur2054" />
+    <filter inkscape:collect="always" style="color-interpolation-filters:sRGB" id="filter2052" x="-0.0064820596" width="1.0129641" y="-0.080679543" height="1.1613591">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="1.0879395" id="feGaussianBlur2054" />
     </filter>
-    <mask id="cut-inner">
-      <rect x="0" y="0" width="1024" height="1024" id="rect24" style="fill:white" />
-      <circle cx="512" cy="512" r="420" id="circle26" style="fill:black" />
-    </mask>
   </defs>
-  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0" inkscape:cx="1110" inkscape:cy="523" inkscape:document-units="px" inkscape:window-maximized="1" showguides="true" inkscape:guide-bbox="true" guidetolerance="10" showgrid="false" gridtolerance="10" inkscape:current-layer="symbol-group">
-    <sodipodi:guide position="555,261.5" orientation="1,0" id="center-x" inkscape:locked="false" inkscape:label="Center X" inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide position="550,261.5" orientation="0,1" id="center-y" inkscape:locked="false" inkscape:color="rgb(0,0,255)" inkscape:label="Center Y" />
-  </sodipodi:namedview>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1.1242998" inkscape:cx="449.13078" inkscape:cy="209.96146" inkscape:document-units="px" inkscape:current-layer="layer3" showgrid="false" units="px" inkscape:window-width="1920" inkscape:window-height="1017" inkscape:window-x="1912" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:measure-start="357.973,190" inkscape:measure-end="602.027,290" />
   <metadata id="metadata7">
     <rdf:RDF>
       <cc:Work rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g inkscape:groupmode="layer" id="background" inkscape:label="Background" transform="translate(0,43)">
-    <rect style="fill:#eee;fill-opacity:1;stroke:none;stroke-width:1.19725" id="background-box" width="1110" height="523" x="0" y="-43" />
-    <g id="inner">
-      <rect style="fill:#212121;fill-opacity:1;filter:url(#filter1990)" y="-13" x="30.0008" height="463" width="1050" id="inner-box-shadow" />
-      <rect id="inner-box" width="1050" height="463" x="30.0008" y="-13" style="fill:#eee;fill-opacity:1;stroke:none;stroke-width:1.14337" />
-    </g>
-    <g id="ribbon">
-      <path sodipodi:nodetypes="ccccccccccc" inkscape:connector-curvature="0" id="ribbon-path-shadow" d="M 555,76.8542 C 494.512,76.8866 444.195,111.105 420,164.021 H -50 v 108.958 h 470 c 24.178,52.88 74.554,87.091 135,87.167 60.488,-0.03 110.805,-34.251 135,-87.167 h 470 V 164.021 H 690 C 665.822,111.141 615.446,76.9299 555,76.8542 Z" style="fill:#212121;fill-opacity:1;filter:url(#filter2022)" />
-      <path style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:17.843908;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" d="M 555,76.8542 C 494.512,76.8866 444.195,111.105 420,164.021 H -50 v 108.958 h 470 c 24.178,52.88 74.554,87.091 135,87.167 60.488,-0.03 110.805,-34.251 135,-87.167 h 470 V 164.021 H 690 C 665.822,111.141 615.446,76.9299 555,76.8542 Z" id="ribbon-path" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccc" />
-    </g>
-    <g id="gradient" transform="translate(405,405)">
-      <rect x="0" y="0" width="300" height="16" id="gradient-box-shadow" style="fill:#212121;fill-opacity:1;filter:url(#filter2026)" />
-      <rect x="0" y="0" width="300" height="16" id="gradient-box" style="fill:url(#linearGradient6284);fill-opacity:1" />
-    </g>
+  <g inkscape:groupmode="layer" id="layer0" inkscape:label="Background" transform="translate(0,43)">
+    <rect style="fill:#eee;fill-opacity:1;stroke:none;stroke-width:1.19724989" id="box-r0" width="1110" height="523" x="0" y="-43" />
+    <rect style="fill:#212121;fill-opacity:1;filter:url(#filter1990)" y="25" x="25" height="430" width="910" id="box-r1-s" transform="matrix(1.1554096,0,0,-1.0827655,0.40425318,478.3637)" />
+    <rect id="box-r1" width="1050" height="463" x="30.000832" y="-13" style="fill:#eee;fill-opacity:1;stroke:none;stroke-width:1.14336967" />
+    <path sodipodi:nodetypes="ccccccccccc" inkscape:connector-curvature="0" id="box-p2-s" d="m 480,110 c -52.98909,0.0298 -98.80437,31.43469 -120,80 H -50 v 100 h 410 c 21.18108,48.53209 67.04722,79.9305 120,80 52.98909,-0.0298 98.80437,-31.43469 120,-80 h 410 V 190 H 600 C 578.81892,141.46792 532.95278,110.0695 480,110 Z" style="fill:#212121;fill-opacity:1;filter:url(#filter2022)" transform="matrix(1.1252929,0,0,1.0886079,15.359825,-42.765893)" />
+    <path style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:17.84390831;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" d="M 554.99999,76.854165 C 494.51244,76.886635 444.19503,111.10488 420,164.02083 H -50 v 108.95834 h 470 c 24.17842,52.87975 74.5539,87.09094 134.99999,87.16666 C 615.48752,360.11333 665.80498,325.89512 690,272.97917 h 470 V 164.02083 H 690 C 665.8216,111.14109 615.44609,76.929892 554.99999,76.854165 Z" id="box-p2" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccc" />
+    <rect y="406" x="315" height="15" width="330" id="box-r2-s" style="fill:#212121;fill-opacity:1;filter:url(#filter2026)" transform="matrix(1.1507266,0,0,1.07702,2.6512274,-34.05387)" />
+    <rect style="fill:url(#linearGradient6284);fill-opacity:1;stroke:none;stroke-width:1.1305244" id="box-r2" width="379.73981" height="16.1553" x="365.1301" y="400.70206" />
   </g>
-  <g inkscape:label="Symbol" inkscape:groupmode="layer" id="symbol" style="display:inline">
-    <g id="symbol-group" transform="translate(423, 130.75)">
-      <circle id="symbol-object-shadow" style="filter:url(#filter1938)" cx="132" cy="132" r="132" />
-      <g id="symbol-object" transform="scale(0.2578125)">
-        <circle id="symbol-background" fill="white" cy="512" cx="512" r="486" />
-        <circle id="symbol-border" cx="512" cy="512" r="490" style="fill:black" mask="url(#cut-inner)" />
-        <g id="symbol-military">
-          <path style="fill:white;stroke:black;stroke-width:10" d="m 590,557 -78,45 -78,-45 H 316 v -90 h 117 l 78,-45 78,45 h 117 v 90 z" id="symbol-military-border" />
-          <g id="symbol-military-dot">
-            <circle id="symbol-military-dot-up" fill="black" cx="512" cy="462" r="24" />
-            <circle id="symbol-military-dot-right" fill="black" cx="557" cy="512" r="24" />
-            <circle id="symbol-military-dot-down" fill="black" cx="512" cy="562" r="24" />
-            <circle id="symbol-military-dot-left" fill="black" cx="466" cy="512" r="24" />
-          </g>
-          <g id="symbol-military-stripes">
-            <g id="symbol-military-stripes-left">
-              <rect id="symbol-military-stripes-left-top" x="321" y="471" width="114" height="41" fill="blue" />
-              <rect id="symbol-military-stripes-left-bottom" x="321" y="512" width="114" height="41" fill="red" />
-            </g>
-            <g id="symbol-military-stripes-right">
-              <rect id="symbol-military-stripes-right-top" x="589" y="471" width="114" height="41" fill="blue" />
-              <rect id="symbol-military-stripes-right-bottom" x="589" y="512" width="114" height="41" fill="red" />
-            </g>
-          </g>
+  <g inkscape:label="Symbol" inkscape:groupmode="layer" id="layer1" style="display:inline" transform="translate(0,43)" sodipodi:insensitive="true">
+    <g id="layer1-0" transform="matrix(0.24489796,0,0,0.24489796,429.61224,93.112239)">
+      <circle id="symbol-s" cx="512" cy="512" style="filter:url(#filter1938)" r="490" />
+      <g id="symbol">
+        <circle cy="510" cx="510" id="symbol-c0" style="fill:white;stroke-width:0.9885965" r="469.58334" />
+        <path style="fill:black" d="M 893.9998,257.27945 766.7206,130.00023 604.086,419.914 Z" id="symbol-p1" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" />
+        <path style="fill:black" d="M 766.7206,904 893.99982,776.72077 604.086,614.08619 Z" id="symbol-p2" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" />
+        <path style="fill:black" d="M 130,776.72077 257.27933,904 419.914,614.08622 Z" id="symbol-p3" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" />
+        <path style="fill:black" d="M 257.27922,130.00023 130,257.27945 419.91378,419.914 Z" id="symbol-p4" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" />
+        <path transform="matrix(0.95703121,0,0,0.95703121,21.999999,21.999999)" id="symbol-p0" d="M 512,0 A 511.99999,511.99999 0 0 0 0,512 511.99999,511.99999 0 0 0 512,1024 511.99999,511.99999 0 0 0 1024,512 511.99999,511.99999 0 0 0 512,0 Z m 0,64 A 447.99999,447.99999 0 0 1 960,512 447.99999,447.99999 0 0 1 512,960 447.99999,447.99999 0 0 1 64,512 447.99999,447.99999 0 0 1 512,64 Z" style="fill:black" inkscape:connector-curvature="0" />
+        <circle r="85" id="symbol-c1" style="fill:black" cx="512" cy="210" />
+        <circle cy="512" cx="815" style="fill:black" id="symbol-c2" r="85" />
+        <circle r="85" id="symbol-c3" style="fill:black" cx="512" cy="815" />
+        <circle cy="512" cx="210" style="fill:black" id="symbol-c4" r="85" />
+        <g id="military-logo">
+          <path style="fill:none;stroke:black;stroke-width:10" d="M 590.67434,557.554 512.01469,602.92378 433.32601,557.605 H 316.251 V 466.916 H 433.29699 L 511.95664,421.54643 590.6453,466.866 H 707.749 v 90.688 z" id="ml-p0" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccc" />
+          <circle id="ml-c0" style="fill:black" cx="512" cy="462" r="24" />
+          <circle id="ml-c1" style="fill:black" cx="557" cy="512" r="24" />
+          <circle id="ml-c2" style="fill:black" cx="512" cy="562" r="24" />
+          <circle id="ml-c3" style="fill:black" cx="466" cy="512" r="24" />
+          <rect y="471" x="321" height="41" width="114" id="ml-r0" style="fill:blue" />
+          <rect y="512" x="321" height="41" width="114" id="ml-r1" style="fill:red" />
+          <rect style="fill:blue" id="ml-r2" width="114" height="41" x="589" y="471" />
+          <rect y="512" x="589" height="41" width="114" id="ml-r3" style="fill:#f44336;fill-opacity:1;stroke:none" />
         </g>
-        <path id="symbol-p1" style="fill:black" d="M 894,257.279 766.721,130 604.086,419.914 Z" />
-        <path id="symbol-p2" style="fill:black" d="M 766.721,904 894,776.721 604.086,614.086 Z" />
-        <path id="symbol-p3" style="fill:black" d="M 130,776.721 257.279,904 419.914,614.086 Z" />
-        <path id="symbol-p4" style="fill:black" d="M 257.279,130 130,257.279 419.914,419.914 Z" />
-        <circle id="symbol-c1" style="fill:black" cx="512" cy="210" r="85" />
-        <circle id="symbol-c2" style="fill:black" cx="815" cy="512" r="85" />
-        <circle id="symbol-c3" style="fill:black" cx="512" cy="815" r="85" />
-        <circle id="symbol-c4" style="fill:black" cy="512" cx="210" r="85" />
       </g>
     </g>
   </g>
-  <g inkscape:groupmode="layer" id="text" inkscape:label="Text" style="display:inline">
-    <g id="text-symbol" inkscape:groupmode="layer" transform="translate(567.5,471.5)">
-      <text id="text-symbol-shadow" x="0" y="0" xml:space="preserve" style="text-align:end;fill:black;filter:url(#filter2052)">
-        <tspan id="text-symbol-shadow-text" x="0" y="0" sodipodi:role="line" style="font-size:40px;text-align:center;text-anchor:middle">⌬                                   ⌬</tspan>
-      </text>
-      <text id="text-symbol-text" x="0" y="0" xml:space="preserve" style="text-align:end;fill:black">
-        <tspan id="text-symbol-text-text" x="0" y="0" sodipodi:role="line" style="font-size:40px;text-align:center;text-anchor:middle">⌬                                   ⌬</tspan>
-      </text>
-    </g>
-    <g id="text-void" inkscape:groupmode="layer" transform="translate(225,285)">
-      <text id="test-void-shadow" x="0" y="0" style="text-align:end;fill:black;filter:url(#filter2038)" xml:space="preserve">
-        <tspan id="text-void-shadow-text" x="0" y="0" sodipodi:role="line" style="font-size:60px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle">VOID</tspan>
-      </text>
-      <text id="text-void-text" x="0" y="0" xml:space="preserve" style="text-align:end;fill:black">
-        <tspan id="text-void-text-text" x="0" y="0" sodipodi:role="line" style="font-size:60px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle">VOID</tspan>
-      </text>
-    </g>
-    <g id="text-incournic" inkscape:groupmode="layer" transform="translate(900,285)">
-      <text id="text-incournic-shadow" x="0" y="0" xml:space="preserve" style="text-align:end;fill:black;filter:url(#filter2038)">
-        <tspan id="text-incournic-shadow-text" x="0" y="0" sodipodi:role="line" style="font-size:60px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle">INCOURNIC</tspan>
-      </text>
-      <text id="text-incournic-text" x="0" y="0" xml:space="preserve" style="text-align:end;fill:black">
-        <tspan id="text-incournic-text-text" x="0" y="0" sodipodi:role="line" style="font-size:60px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle">INCOURNIC</tspan>
-      </text>
-    </g>
+  <g inkscape:groupmode="layer" id="layer3" inkscape:label="Text" transform="translate(0,43)" style="display:inline">
+    <text id="layer3-t0-s" y="426.98727" x="555" style="font-style:normal;font-weight:normal;text-align:end;fill:#212121;stroke:none;filter:url(#filter2052)" xml:space="preserve"><tspan id="t0-s-t0" style="font-size:40px;text-align:center;text-anchor:middle" y="426.98727" x="555" sodipodi:role="line">⌬                                   ⌬</tspan></text>
+    <text xml:space="preserve" style="font-style:normal;font-weight:normal;text-align:end;fill:black;stroke:none" x="555" y="426.98727" id="layer3-t0"><tspan sodipodi:role="line" x="555" y="426.98727" style="font-size:40px;text-align:center;text-anchor:middle" id="t0-t0">⌬                                   ⌬</tspan></text>
+    <text id="layer3-t1-s" y="260.71191" x="279.24622" style="font-style:normal;font-weight:normal;font-size:120px;text-align:end;fill:#212121;stroke:none;filter:url(#filter2038)" xml:space="preserve"><tspan style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:118.75px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle" y="260.71191" x="293.974" id="t1-s-t0" sodipodi:role="line">VOID </tspan></text>
+    <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:120px;text-align:end;fill:black;stroke:none" x="279.18823" y="260.71191" id="layer3-t1"><tspan sodipodi:role="line" id="t1-t0" x="293.91602" y="260.71191" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:118.75px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle">VOID </tspan></text>
+    <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120px;line-height:1.5px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="829.50195" y="261.15625" id="text879"><tspan sodipodi:role="line" id="tspan877" x="829.50195" y="261.15625">INC.</tspan><tspan sodipodi:role="line" x="829.50195" y="262.65625" id="tspan881" /></text>
+    <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:120px;text-align:end;fill:#212121;stroke:none;filter:url(#filter2038)" x="829.50714" y="260.71191" id="text893"><tspan sodipodi:role="line" x="829.50714" y="260.71191" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:118.75px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:black" id="tspan895">INC.</tspan></text>
   </g>
 </svg>

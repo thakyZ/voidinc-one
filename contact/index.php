@@ -208,7 +208,7 @@
                   if (isset($_POST['submit']))
                   {
                     /* Set e-mail recipient */
-                    $myemail  = "\<email\>";
+                    $myemail  = "<email>";
 
                     /* Check all form inputs using check_input function */
                     $yourname = check_input($_POST['name'], "Enter your name");
